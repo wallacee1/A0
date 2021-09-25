@@ -1,0 +1,28 @@
+Windows Basics - Files & Folders
+5) a. Question: What happened with Folder1 and Folder2 on the Desktop?
+Answer: Folder2 is now located inside of Folder1 which is located on the Desktop.
+7) a. Question: What is the file extension for the text document?
+Answer: .txt
+8) a. Question: How would you do it?
+Answer: Right-click on the text file, select copy, click into the new location then paste into the new location.
+9) a. Question: WHat are the attributes associated with this file?
+Answer: The attributes associated are A.
+10) a. Question: What is the complete path to Folder3?
+Answer: C:\Users\ericj\Desktop\Folder1\Folder2\Folder3
+b. Question: In Windows 10, which directories are listed under Folders?
+Answer: None.
+12) a. Question: What happened? Why would you want to do this?
+Answer: Folder1 is now listed in the Quick Access menu. It would place working folders to be quickly accessed for ease of use.
+13) a. Question: What are folders listed in the Local Disk (C:)?
+Answer: Intel, PerfLogs, Program Files, Program Files (x86), Python38, Users, Windows.
+15. a. Question: Were you able to open it? Explain.
+Answer: Yes. I was able to open the folder because I am logged in and have permission to do so.
+16) a. Question: Were you able to open it? Explain.
+Answer: I do not have another user on my laptop.
+17) a. Question: Open the Public folder. List all the folders in the directory.
+Answer: Public Documents, Public Downloads, Public Music, Public Videos and Public Pictures.
+20) a. Question: Which folders or files listed under the Libraries heading?
+Answer: CIS 111, Documents, Music, Pictures, Videos.
+23) a. Question: How would you remove the directory of Folder1 from the library without deleting Folder1 and its contents from the computer?
+Answer: Select Folder1, click on the manage in the ribbon, then select manage library, select Folder1 and click remove. Click ok.
+
